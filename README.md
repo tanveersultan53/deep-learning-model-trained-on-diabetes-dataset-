@@ -1,11 +1,7 @@
 # deep-learning-model-trained-on-diabetes-dataset-
 
 
+#Dataset Description:  
+""" The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. • Pregnancies: Number of times pregnant • Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test • BloodPressure: Diastolic blood pressure (mm Hg) • SkinThickness: Triceps skin fold thickness (mm) • Insulin: 2-Hour serum insulin (mu U/ml) • BMI: Body mass index (weight in kg/(height in m)^2) • DiabetesPedigreeFunction: Diabetes pedigree function • Age: Age (years)
 
-echo "# deep-learning-model-trained-on-diabetes-dataset-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tanveersultan53/deep-learning-model-trained-on-diabetes-dataset-.git
-git push -u origin main
+• Outcome: Class variable (0 or 1)"""¶
